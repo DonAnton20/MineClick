@@ -1,0 +1,84 @@
+{
+  "name": "MineClick",
+  "short_name": "MineClick",
+  "id": "com.DonAnton.MineClick",
+  "description": "In this engaging 2D clicker game, players start by clicking a block to earn money. With each click, the money earned increases, and players can reinvest their earnings into powerful boosters. Choose between two upgrade paths: one that increases your passive income per second, and the other that boosts the money earned with each click. As you progress, the cost of upgrades rises, but so do the rewards, allowing for exponential growth in earnings. The more you click and upgrade, the faster you advance, creating a satisfying loop of action and progression. Will you be able to reach the highest earnings and unlock all the upgrades? Play now and find out!",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "icon.png",
+        "sizes": "20x20"
+      },{
+        "src": "icon.png",
+        "sizes": "29x29"
+      },{
+        "src": "icon.png",
+        "sizes": "36x36"
+      },{
+        "src": "icon.png",
+        "sizes": "40x40"
+      },{
+        "src": "icon.png",
+        "sizes": "48x48"
+      },{
+        "src": "icon.png",
+        "sizes": "50x50"
+      },{
+        "src": "icon.png",
+        "sizes": "57x57"
+      },{
+        "src": "icon.png",
+        "sizes": "58x58"
+      },{
+        "src": "icon.png",
+        "sizes": "60x60"
+      },{
+        "src": "icon.png",
+        "sizes": "72x72"
+      },{
+        "src": "icon.png",
+        "sizes": "76x76"
+      },{
+        "src": "icon.png",
+        "sizes": "80x80"
+      },{
+        "src": "icon.png",
+        "sizes": "87x87"
+      },{
+        "src": "icon.png",
+        "sizes": "96x96"
+      },{
+        "src": "icon.png",
+        "sizes": "100x100"
+      },{
+        "src": "icon.png",
+        "sizes": "114x114"
+      },{
+        "src": "icon.png",
+        "sizes": "120x120"
+      },{
+        "src": "icon.png",
+        "sizes": "144x144"
+      },{
+        "src": "icon.png",
+        "sizes": "152x152"
+      },{
+        "src": "icon.png",
+        "sizes": "167x167"
+      },{
+        "src": "icon.png",
+        "sizes": "180x180"
+      },{
+        "src": "icon.png",
+        "sizes": "192x192"
+      },{
+        "src": "icon.png",
+        "sizes": "512x512"
+      },{
+        "src": "icon.png",
+        "sizes": "1024x1024"
+      }]
+}
